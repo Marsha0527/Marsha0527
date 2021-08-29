@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 <h1> Hello, I'm Marsha Woods! 👋</h1>
 <h4>I am a self taught front-end developer.
   I am currently in the process of learning JavaScript.   
