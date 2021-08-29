@@ -9,7 +9,7 @@
     
  <body>
      <h1> Hello, I'm Marsha Woods! 👋 &#9995270</h1>
-<h4>I am a self taught front-end developer. <br>
+<h4>&#128073 1F449 I am a self taught front-end developer. <br>
     <br>
   I am currently in the process of learning JavaScript.   <br>
     <br>
