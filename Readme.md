@@ -10,11 +10,11 @@
  <body>
      <h1> Hello, I'm Marsha Woods! &#128578</h1>
      
-  <h4>&#11088 When I began this journey into coding, I had no prior experience with computer languages.  But, I am intrigued by the vastness of this career, and this unique way in which you are able to express creativeness.</h4>
+  <h4>&#11088 When I began this journey into coding, I had no prior experience with computer languages.   But, I am intrigued by the vastness of this career, and this unique way in which you are able to express creativeness.</h4>
       <hr>
 <h4>&#128073  I am a self taught front-end developer. <br>
     <br>
-    &#128073 I have experience with HTML & CSS. <br>
+    &#128073 I have experience with HTML, CSS & Bootstrap. <br>
     <br>
   &#128073 I am currently in the process of learning JavaScript.   <br>
     <br>
@@ -24,7 +24,7 @@
     <br>
     &#128073 You can reach me by email at : woods.marshaw@gmail.com<br>
     <br>
-    &#128073 <strong><u>Fun facts</u></strong> about me - I love being around my family. My husband, daughter, our 3 sons, and our great dane fill my days with sunshine.  And, I am a fraternal twin.
+    &#128073 <strong><u>Fun facts</u></strong> about me - I love being around my family.   My husband, daughter, our 3 sons, and our great dane fill my days with sunshine.   And, I am a fraternal twin.
  
 
  
