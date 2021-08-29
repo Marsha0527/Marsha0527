@@ -8,7 +8,7 @@
  </head>
     
  <body>
-     <h1> Hello, I'm Marsha Woods! 👋</h1>
+     <h1> Hello, I'm Marsha Woods! 👋 &#9995270B</h1>
 <h4>I am a self taught front-end developer. <br>
     <br>
   I am currently in the process of learning JavaScript.   <br>
