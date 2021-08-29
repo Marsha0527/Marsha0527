@@ -24,7 +24,9 @@
     <br>
     &#128073 You can reach me by email at : woods.marshaw@gmail.com<br>
     <br>
-    &#128073 <strong><u>Fun facts</u></strong> about me - I love being around my family.   My husband, daughter, our 3 sons, and our great dane fill my heart with joy.<br>   And, I am a fraternal twin.
+    &#128073 <strong><u>Fun fact</u></strong> about me - I am a fraternal twin.<br>
+    <br>
+    &#128073 I love spending time with my family.  My husband, daughter, 3 sons, and our great dane fill my days with joy.
  
 
  
