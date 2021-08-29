@@ -18,7 +18,7 @@
 
  
 
-  <h5>When I began this journey into coding, I had no prior experience in computer languages.  But, I am intrigued by the vastness of this career, and this unique way in which you are able to express creativeness.</h5>
+  <h5>&#11088 When I began this journey into coding, I had no prior experience in computer languages.  But, I am intrigued by the vastness of this career, and this unique way in which you are able to express creativeness.</h5>
  </body>
     </html>
 
