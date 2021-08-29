@@ -18,7 +18,9 @@
     <br>
   &#128073 I am currently in the process of learning JavaScript.   <br>
     <br>
-   &#128073 I'm looking for assistance in getting more familiar with GitHub.<br>
+   &#128073 I'm looking for assistance in getting more familiar with JavaScript loops.<br>
+    <br>
+    &#128073 
  
 
  
