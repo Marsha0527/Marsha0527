@@ -4,7 +4,11 @@
   I am currently in the process of learning JavaScript.   
   <hr>
   <div class="container">
-    <style="background-color: #E999A6";
+    <div class="card">
+      <div class="card-content">
+        
+      </div>
+    </div>
   </div>
 
   <h5>When I began this journey into coding, I had no prior experience in computer languages.  But, I am intrigued by the vastness of this career, and this unique way in which you are able to express creativeness.</h5>
