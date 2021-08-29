@@ -9,16 +9,18 @@
     
  <body>
      <h1> Hello, I'm Marsha Woods! &#128578</h1>
+     
+  <h4>&#11088 When I began this journey into coding, I had no prior experience in computer languages.  But, I am intrigued by the vastness of this career, and this unique way in which you are able to express creativeness.</h4>
+      <hr>
 <h4>&#128073  I am a self taught front-end developer. <br>
     <br>
   &#128073 I am currently in the process of learning JavaScript.   <br>
     <br>
    &#128073 I'm looking for assistance in getting more familiar with GitHub.<br>
-  <hr>
+ 
 
  
 
-  <h5>&#11088 When I began this journey into coding, I had no prior experience in computer languages.  But, I am intrigued by the vastness of this career, and this unique way in which you are able to express creativeness.</h5>
  </body>
     </html>
 
