@@ -20,7 +20,11 @@
     <br>
    &#128073 I'm looking for assistance in getting more familiar with JavaScript loops.<br>
     <br>
-    &#128073 
+    &#128073 Ask me about my journey into code. <br>
+    <br>
+    &#128073 You can reach me by email at : woods.marshaw@gmail.com<br>
+    <br>
+    &#128073 <strong><u>Fun facts</u></strong> about me - I love being around my family. My husband, daughter, our 3 sons, and our great dane fill my days with sunshine.  And, I am a fraternal twin.
  
 
  
