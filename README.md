@@ -1,6 +1,9 @@
 <h1> Hello, I'm Marsha Woods! 👋</h1>
-<h4>I am currently learning JavaScript.  I am a self taught front-end developer.  When I began this journey into coding, I had no prior experience in computer languages.  But, I am intrigued by the vastness of this career, and this unique way in which you are able to express creativeness.
-<hr>
+<h4>I am a self taught front-end developer.
+  I am currently in the process of learning JavaScript.   
+  <hr>
+  <h5>When I began this journey into coding, I had no prior experience in computer languages.  But, I am intrigued by the vastness of this career, and this unique way in which you are able to express creativeness.</h5>
+
 
 
 
