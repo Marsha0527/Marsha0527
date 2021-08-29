@@ -10,7 +10,9 @@
  <body>
      <h1> Hello, I'm Marsha Woods! 👋</h1>
 <h4>I am a self taught front-end developer. <br>
+    <br>
   I am currently in the process of learning JavaScript.   <br>
+    <br>
     I'm looking for assistance in getting more familiar with GitHub.<br>
   <hr>
 
