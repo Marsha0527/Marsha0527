@@ -2,8 +2,9 @@
 <h4>I am a self taught front-end developer.
   I am currently in the process of learning JavaScript.   
   <hr>
-  <container>
-    <img src="![pexels-sharon-mccutcheon-3770703](https://user-images.githubusercontent.com/68514405/131237032-1817de30-4646-4bde-80bb-a6dcbf4c464b.jpg)>
+  <div class="container">
+    <style="background-color: #E999A6";
+  </div>
 
   <h5>When I began this journey into coding, I had no prior experience in computer languages.  But, I am intrigued by the vastness of this career, and this unique way in which you are able to express creativeness.</h5>
 
