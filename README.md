@@ -1,8 +1,8 @@
 <h1> Hello, I'm Marsha Woods! 👋</h1>
-
+<h4>I am currently learning JavaScript.  I am a self taught front-end developer.  When I began this journey into coding, I had no prior experience in computer languages.  But, I am intrigued by the vastness of this career, and this unique way in which you are able to express creativeness.
 <hr>
 
-<h3>I am currently working on adding CSS and JavaScript into the Repositories I have already built.</h3>
+
 
 <!--
 **Marsha0527/Marsha0527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
