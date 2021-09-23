@@ -14,7 +14,7 @@
       <hr>
 <h4>&#128073  I am a self taught front-end developer. <br>
     <br>
-    &#128073 I have experience with HTML, CSS. <br>
+    &#128073 I have experience with HTML, and CSS. <br>
     <br>
   &#128073 I am currently in the process of learning JavaScript.   <br>
     <br>
