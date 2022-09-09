@@ -16,10 +16,6 @@
     <br>
     &#128073 I have experience with HTML, and CSS. <br>
     <br>
-  &#128073 I am currently in the process of learning JavaScript.   <br>
-    <br>
-   &#128073 I'm looking for assistance in getting more familiar with JavaScript.<br>
-    <br>
     &#128073 Ask me about my journey into code. <br>
     <br>
     &#128073 You can reach me by email at : woods.marshaw@gmail.com<br>
